@@ -6,4 +6,7 @@ Description:
   Detects motion change for a phone in landscape mode
   Originally designed as a module for another project
   
+  HOW TO USE:
+  REPLACE WITH FILES FROM YOUR PROJECT
+  
   Author: Muhammad Rowaha
